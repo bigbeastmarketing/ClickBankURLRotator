@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
 
-<title>Clickbank Rotator</title>
+<title>ClickBank Rotator</title>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119422225-1"></script>
@@ -76,7 +77,7 @@
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.html">SAFELISTS</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/?hop=yourclickbankusername">http://rotator.space/?hop=yourclickbankusername</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/?hop=yourclickbankusername">http://rotator.space/?hop=yourclickbanknickname</a></span>
 </center>
 
 
