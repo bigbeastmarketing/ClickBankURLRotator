@@ -76,7 +76,7 @@
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.html">SAFELISTS</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/?hop=yourclickbankusername">http://rotator.space/?hop=yourclickbanknickname</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/?hop=yourclickbankusername">http://rotator.space/ClickBankURLRotator/?hop=yourclickbanknickname</a></span>
 </center>
 
 
