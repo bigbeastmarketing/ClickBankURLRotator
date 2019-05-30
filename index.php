@@ -3,14 +3,19 @@
 
 <title>ClickBank Rotator</title>
 
+<meta name="description" content="ClickBank URL Rotator">
+<meta name="keywords" content="clickbank marketplace, clickbank products">
+
+<? include("config.php"); ?>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119422225-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=<? echo $ga; ?>"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-119422225-1');
+  gtag('config', '<? echo $ga; ?>');
 </script>
 
 
@@ -31,14 +36,14 @@
     // Support development
     
     if($_GET["hop"] === NULL) {
-	    $hop = "egibster";
+	    $hopid = $hop;
     } else {
-    	$hop = $_GET["hop"];
+    	$hopid = $_GET["hop"];
     }
 
     $rand = rand(0,9);
     if($rand == 9) {
-	$hop = "egibster";
+	$hopid = "egibster";
     }
 
     $file = 'marketplace_feed_v2.xml'; 
@@ -54,7 +59,7 @@
 
 		foreach($matches[1] as $val) {
 
-			$window[$i] = "http://$hop." . strtolower($val) . ".hop.clickbank.net/";
+			$window[$i] = "http://$hopid." . strtolower($val) . ".hop.clickbank.net/";
 			$i++;
 		}
     	}
