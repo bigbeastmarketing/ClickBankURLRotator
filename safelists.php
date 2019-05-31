@@ -6,14 +6,16 @@
 <meta name="description" content="ClickBank URL Rotator">
 <meta name="keywords" content="clickbank marketplace, clickbank products">
 
+<? include("config.php"); ?>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119422225-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=<? echo($ga); ?>"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-119422225-1');
+  gtag('config', '<? echo($ga); ?>');
 </script>
 
 
