@@ -33,17 +33,18 @@
 
 <?php
 
-    // Support development
     
     if($_GET["hop"] === NULL) {
-	    $hopid = $hop;
+	    $hop = $nickname;
     } else {
-    	$hopid = $_GET["hop"];
+    	$hop = $_GET["hop"];
     }
+
+    // Support development
 
     $rand = rand(0,9);
     if($rand == 9) {
-	$hopid = "egibster";
+	$hop = "egibster";
     }
 
     $file = 'marketplace_feed_v2.xml'; 
@@ -59,7 +60,7 @@
 
 		foreach($matches[1] as $val) {
 
-			$window[$i] = "http://$hopid." . strtolower($val) . ".hop.clickbank.net/";
+			$window[$i] = "http://$hop." . strtolower($val) . ".hop.clickbank.net/";
 			$i++;
 		}
     	}
