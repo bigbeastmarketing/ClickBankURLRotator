@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<title>Clickbank Rotator Safelists</title>
+<title>ClickBank Rotator Safelists</title>
 
 <meta name="description" content="ClickBank URL Rotator">
 <meta name="keywords" content="clickbank marketplace, clickbank products">
