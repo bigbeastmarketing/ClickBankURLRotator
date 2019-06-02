@@ -82,7 +82,7 @@
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/index.php?hop=yourclickbankusername">http://rotator.space/ClickBankURLRotator/index.php?hop=yourclickbanknickname</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/index.php?hop=yourClickBankNickName">http://rotator.space/ClickBankURLRotator/index.php?hop=yourClickBankNickName</a></span>
 </center>
 
 
