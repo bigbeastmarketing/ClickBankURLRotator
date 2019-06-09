@@ -83,6 +83,7 @@
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://rotator.space/index.php?hop=yourClickBankNickName">http://rotator.space/ClickBankURLRotator/index.php?hop=yourClickBankNickName</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" "https://github.com/bigbeastmarketing/ClickBankURLRotator">Download v.1 Now!</a></span>
 </center>
 
 
