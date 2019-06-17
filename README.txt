@@ -16,9 +16,13 @@ You can download the marketplace feed manually if you're server doesn't have wge
 
 # 3) Set up parameters
 
-By default every hop goes to the developers account. Use the hop parameter to point to your nickname like so:
+By default every hop goes to the developers account. 
 
-http://www.rotator.space/?hop=yournickname
+Use the config to change functionality of your site. Change $nickname to your clickbank nickname (the username you use to login to your site. Change $ga to your google analytics tracking id.
+
+Use the hop parameter to point to your nickname like so:
+
+http://www.rotator.space/index.php?hop=yournickname
 
 1 in 10 hops go to the developer's ClickBank account to further development.
 
