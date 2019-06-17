@@ -18,7 +18,7 @@ You can download the marketplace feed manually if you're server doesn't have wge
 
 By default every hop goes to the developers account. 
 
-Use the config to change functionality of your site. Change $nickname to your clickbank nickname (the username you use to login to your site. Change $ga to your google analytics tracking id.
+Use the config to change functionality of your site. Change $nickname to your clickbank nickname (the username you use to login to clickbank). Change $ga to your google analytics tracking id.
 
 Use the hop parameter to point to your nickname like so:
 
