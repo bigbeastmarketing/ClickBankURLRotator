@@ -60,7 +60,7 @@
 
 		foreach($matches[1] as $val) {
 
-			$window[$i] = "http://". $hop. " . strtolower($val) . ".hop.clickbank.net/";
+			$window[$i] = "http://". $hop. "." . strtolower($val) . ".hop.clickbank.net/";
 			$i++;
 		}
     	}
