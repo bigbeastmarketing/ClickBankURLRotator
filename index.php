@@ -6,7 +6,7 @@
 <meta name="description" content="ClickBank URL Rotator">
 <meta name="keywords" content="clickbank marketplace, clickbank products">
 
-<? include("config.php"); ?>
+<?php include("config.php"); ?>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=<? echo $ga; ?>"></script>
@@ -15,7 +15,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '<? echo $ga; ?>');
+  gtag('config', '<?php echo $ga; ?>');
 </script>
 
 
