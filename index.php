@@ -35,7 +35,7 @@
 
     
     if($_GET["hop"] === NULL) {
-	    $hop = "ericgibsonmusic";
+	    $hop = "bigbeastmarketing";
     } else {
     	$hop = $_GET["hop"];
     }
@@ -44,7 +44,7 @@
 
     $rand = rand(0,9);
     if($rand == 9) {
-	$hop = "ericgibsonmusic";
+	$hop = "bigbeastmarketing";
     }
 
     $file = 'marketplace_feed_v2.xml'; 
@@ -82,9 +82,9 @@
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=ericgibsonmusic">http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=ericgibsonmusic</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download v.1 Now!</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download v1.1 Now!</a></span>
 </center>
 
 
