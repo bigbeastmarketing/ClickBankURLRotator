@@ -22,7 +22,7 @@ Use the config to change functionality of your site. Change $nickname to your cl
 
 Use the hop parameter to point to your nickname like so:
 
-http://www.rotator.space/index.php?hop=yournickname
+http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=ericgibsonmusic
 
 1 in 10 hops go to the developer's ClickBank account to further development.
 
