@@ -9,7 +9,7 @@
 <?php include("config.php"); ?>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=<? echo $ga; ?>"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=<?php echo $ga; ?>"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -78,7 +78,7 @@
 
 <center>
 <a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<div style="vertical-align: top" class="fb-like" data-href="<? echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div style="vertical-align: top" class="fb-like" data-href="<?php echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
