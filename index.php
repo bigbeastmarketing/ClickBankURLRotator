@@ -82,7 +82,7 @@
 <center>
 <br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=egibster">http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=egibster</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=egibster">http://affiliatedirectory.online/ClickBankURLRotator/index.php?</a></span>
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download v.1 Now!</a></span>
 </center>
