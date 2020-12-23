@@ -71,7 +71,7 @@
         fclose($handle);
    } 
 
-	echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='$url'></iframe>\n";
+	echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='. get_resource_typei($url). '></iframe>\n";
 
 ?>
 
