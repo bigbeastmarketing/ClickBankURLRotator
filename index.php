@@ -35,7 +35,7 @@
 
     
     if($_GET["hop"] === NULL) {
-	    $hop = $nickname;
+	    $hop = "ericgibsonmusic";
     } else {
     	$hop = $_GET["hop"];
     }
