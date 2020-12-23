@@ -60,7 +60,7 @@
 
 		foreach($matches[1] as $val) {
 
-			$window[$i] = "http://" . strtolower($val) . ".hop.clickbank.net/";
+			$window[$i] = "http://$nickname" . strtolower($val) . ".hop.clickbank.net/";
 			$i++;
 		}
     	}
@@ -71,7 +71,7 @@
         fclose($handle);
    } 
 
-   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". (string)$url . "'></iframe>\n";
+   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'></iframe>\n";
 
 ?>
 
