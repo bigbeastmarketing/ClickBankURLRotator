@@ -6,6 +6,15 @@
 <meta name="description" content="ClickBank URL Rotator">
 <meta name="keywords" content="clickbank marketplace, clickbank products">
 
+<style>
+
+body {
+  background-image: url("images/money.jpg");
+  background-repeat: repeat-y;
+}
+
+</style>
+
 <?php include("config.php"); ?>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
