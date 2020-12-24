@@ -80,11 +80,10 @@
 <a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<div style="vertical-align: top" class="fb-like" data-href="<?php echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 <center>
-<br><span style="vertical-align: top; align: right; font-family: Arial;"><a style="color: white" href="safelists.php">SAFELISTS</a></span>
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download v1.1 Now!</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download THe Latest Version NOW.</a></span>
 </center>
 
 
