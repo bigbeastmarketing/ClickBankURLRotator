@@ -83,7 +83,7 @@
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliatedirectory.online/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download THe Latest Version NOW.</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download The Latest Version NOW.</a></span>
 </center>
 
 
