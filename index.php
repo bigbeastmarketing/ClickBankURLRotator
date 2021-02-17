@@ -23,6 +23,9 @@
 <body style="background-color:gray;">
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div id="share" class="addthis_inline_share_toolbox_4f66"></div>
+            
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -79,7 +82,6 @@
 
 <center>
 <a href="javascript:window.location.reload(true);"><img "vertical-align: top" src="images/next.png"></a>
-<div data-url="share" class="addthis_inline_share_toolbox_4f66"></div>
 </center>
 <br><br>
 <center>
