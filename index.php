@@ -23,7 +23,7 @@
 <body style="background-color:gray;">
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div data-url="javascript: var url = (parent !== window) ? document.referrer : document.location;" id="share" class="addthis_inline_share_toolbox_4f66"></div>
+<div data-url="javascript: document.getElementById('share').contentWindow.location.href" id="share" class="addthis_inline_share_toolbox_4f66"></div>
             
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div id="fb-root"></div>
