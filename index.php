@@ -77,7 +77,7 @@
 
 
 <center>
-<a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
+<a href="javascript:window.location.reload(true);"><img src="images/next.png"></a>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <span class="addthis_inline_share_toolbox_4f66"></span>
 </center>
