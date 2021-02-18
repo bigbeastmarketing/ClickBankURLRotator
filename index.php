@@ -77,9 +77,9 @@
 
 
 <center>
-<a href="https://twitter.com/intent/tweet" class="twitter-share-button" data-text="Check this out! " data-size="large" data-url="<?php echo trim($url); ?>" data-related="twitterapi,twitter">Tweet</a>&nbsp;&nbsp;&nbsp;<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="vertical-align: top" class="fb-like" data-href="<?php echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 <a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
-&nbsp;&nbsp;&nbsp;<div style="vertical-align: top" class="fb-like" data-href="<?php echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+<a href="https://twitter.com/intent/tweet" class="twitter-share-button" data-text="Check this out! " data-size="large" data-url="<?php echo trim($url); ?>" data-related="twitterapi,twitter">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <center>
 <br><br>
