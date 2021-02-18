@@ -22,10 +22,6 @@
 </head>
 <body style="background-color:gray;">
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div data-url="javascript: document.getElementById('share').contentWindow.location.href" id="share" class="addthis_inline_share_toolbox_4f66"></div>
-            
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -75,13 +71,13 @@
         fclose($handle);
    } 
 
-   echo "<iframe id='share' style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'></iframe>\n";
+   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'></iframe>\n";
 
 ?>
 
 
 <center>
-<a href="javascript:window.location.reload(true);"><img "vertical-align: top" src="images/next.png"></a>
+<a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
 </center>
 <br><br>
 <center>
