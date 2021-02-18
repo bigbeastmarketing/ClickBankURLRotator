@@ -71,7 +71,7 @@
         fclose($handle);
    } 
 
-   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'></iframe>\n";
+   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'><div class='ddthis_inline_share_toolbox_vvs8'></div></iframe>\n";
 
 ?>
 
@@ -86,8 +86,7 @@
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download The Latest Version NOW.</a></span>
 </center>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b1459b6dd18cfc5"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b1459b6dd18cfc5"></script>
 
 </body>
 </html>
