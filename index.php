@@ -71,22 +71,22 @@
         fclose($handle);
    } 
 
-   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'><div class='ddthis_inline_share_toolbox_vvs8'></div></iframe>\n";
+   echo "<iframe style='background-color: white;' height='87%' width='100%' sandbox='' src='". $url . "'></iframe>\n";
 
 ?>
 
 
 <center>
 <a href="javascript:window.location.reload(true);"><img style="vertical-align: top" src="images/next.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<div style="vertical-align: top" class="fb-like" data-href="<?php echo trim($url); ?>" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 </center>
-<br><br>
 <center>
+<br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. Download the newest version from here: <a style="color: white" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download The Latest Version NOW.</a></span>
 </center>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b1459b6dd18cfc5"></script>
 
 </body>
 </html>
