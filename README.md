@@ -34,4 +34,4 @@ This project is released under the GPL 2.0 License. If you make changes please p
 
 Thanks,
 
-Eric Gibson
+© Eric Gibson 2021
