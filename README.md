@@ -30,7 +30,7 @@ Additionally the developer added the site to the 500,000 credit safelists on wor
 
 # 4) Help with development
 
-This project is released under the GPL 2.0 License. If you make changes please provide patches to help with development!
+This project is released under the GPL 3.0 License. If you make changes please provide patches to help with development!
 
 Thanks,
 
