@@ -86,9 +86,10 @@
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License. &copy; Eric Gibson 2021. Download the newest version from below: </span> 
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License v3. &copy; Eric Gibson 2021. Download the newest version from below: </span> 
 <br><br> <a style="color: white; font-family: Arial" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download The Latest Version from GitHub.</a>
-<br><br> <a style="color: white; font-family: Arial" href="https://sourceforge.net/projects/clickbankurlrotator/files/latest/download">Download The Latest Version from SourceForge.</a>
+<br><br> <a href="https://sourceforge.net/projects/clickbankurlrotator/files/latest/download"><img alt="Download Clickbank URL Rotator" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+
 </center>
 
 
