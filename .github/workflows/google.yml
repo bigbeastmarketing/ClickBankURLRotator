@@ -13,8 +13,9 @@
 name: Build and Deploy to GKE
 
 on:
-  release:
-    types: [created]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5,17 * * *'
 
 env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}

@@ -20,8 +20,9 @@
 name: Build and Deploy to ACK
 
 on:
-  release:
-    types: [created]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5,17 * * *'
 
 # Environment variables available to all jobs and steps in this workflow.
 env:
