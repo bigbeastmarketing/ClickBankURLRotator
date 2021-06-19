@@ -1,6 +1,6 @@
 ## ClickBank URL Rotator setup help.
 
-This PHP script downloads the ClickBank marketplace feed, and displays random items in an elegant view. This is useful to get lots and lots of ClickBank hops. When people use the share Facebook and Twitter buttons they get free ads.
+This PHP script downloads the ClickBank marketplace feed, and displays random items in an elegant view. This is useful to get lots and lots of ClickBank hops. When people use the share Facebook and Twitter buttons you get free ads.
 
 # 1) Setup
 
