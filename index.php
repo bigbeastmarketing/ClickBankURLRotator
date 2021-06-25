@@ -35,7 +35,7 @@
 
     
     if($_GET["hop"] === NULL) {
-	    $hop = "bigbeastmarketing";
+	    $hop = "bigbeastmk";
     } else {
     	$hop = $_GET["hop"];
     }
@@ -44,7 +44,7 @@
 
     $rand = rand(0,9);
     if($rand == 9) {
-	$hop = "bigbeastmarketing";
+	$hop = "bigbeastmk";
     }
 
     $file = 'marketplace_feed_v2.xml'; 
@@ -84,7 +84,7 @@
 <center>
 <br><br>
 <br><br>
-<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing">http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmarketing</a></span>
+<span style="vertical-align: middle; align: left; font-family: Arial; color: white">Usage: <a style="color: white" href="http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmk">http://affiliate-directory.biz/ClickBankURLRotator/index.php?hop=bigbeastmk</a></span>
 <br><br>
 <span style="vertical-align: middle; align: left; font-family: Arial; color: white">This program is released under the GNU Public License v3. &copy; Eric Gibson 2021. Download the newest version from below: </span> 
 <br><br> <a style="color: white; font-family: Arial" href="https://github.com/bigbeastmarketing/ClickBankURLRotator">Download The Latest Version from GitHub.</a>
